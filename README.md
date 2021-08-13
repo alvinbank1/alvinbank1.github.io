@@ -1,3 +1,26 @@
+Welcome to REAMME.md File! 
+Rule #1
+Don't Fork this file 😆
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# creadit
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
