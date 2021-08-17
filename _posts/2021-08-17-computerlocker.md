@@ -20,6 +20,5 @@ How to lock the computer:
 
 Download Link :   
 
-https://drive.google.com/u/0/uc?id=1gVbVnGUwzCki37TlFOD6qG3Qn9US7iIW&export=download  
-
+https://bit.ly/3iST2fV  
 password : letslockthecomputer2021
