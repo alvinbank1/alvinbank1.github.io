@@ -20,5 +20,5 @@ How to lock the computer:
 
 Download Link :   
 
-https://bit.ly/2W5Qhif
+https://bit.ly/2W5Qhif  
 password : letslockthecomputer2021
