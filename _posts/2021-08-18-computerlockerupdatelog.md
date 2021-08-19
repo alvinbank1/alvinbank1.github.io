@@ -6,7 +6,7 @@ title:  "Computer Locker Update Log"
 
 # Computer Locker Update Log  
 
-V.1.2.0.1
+V.1.2.0.1  
 Added timer function! Until the timer reaches 0(M), the lock cannot be unlocked even if the password is correct.
 
 V.1.1.1  
