@@ -6,7 +6,7 @@ title:  "Computer Locker"
 
 # Computer Locker  
 
-this program is Lock the computer!  
+this program is Locking the computer!  
 
 How to lock the computer:  
 1 : Read the Important! file.  
