@@ -18,13 +18,10 @@ How to lock the computer:
 
 
 
-Download Link :   
-
-https://bit.ly/3csF548  
+Download Link : https://bit.ly/3csF548  
 password : letslockthecomputer2021
 
 
-For developers :   
-
-Source Code download link : N/A   
+For developers
+Source Code download link : https://bit.ly/3DrLkRK   
 password : letslockthecomputerdevelopers
