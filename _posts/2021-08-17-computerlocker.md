@@ -20,7 +20,7 @@ How to lock the computer:
 
 Download Link :   
 
-https://bit.ly/2XBQiLP  
+https://bit.ly/3csF548  
 password : letslockthecomputer2021
 
 
