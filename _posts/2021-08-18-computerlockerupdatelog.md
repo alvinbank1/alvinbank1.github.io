@@ -6,8 +6,12 @@ title:  "Computer Locker Update Log"
 
 # Computer Locker Update Log  
 
+V.1.2.0.2    
+- Dual monitor error fix
+- Bug fixed
+
 V.1.2.0.1  
-Added timer function! Until the timer reaches 0(M), the lock cannot be unlocked even if the password is correct.
+Added timer function! Until the timer reaches 0(M), the lock cannot be unlocked even if the password is correct.    
 
 V.1.1.1  
 It has been changed so that it is not necessary to run it with administrator privileges.  
